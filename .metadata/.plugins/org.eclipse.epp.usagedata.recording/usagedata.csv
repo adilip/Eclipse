@@ -1,0 +1,19 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1407784581076
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1407784581076
+java.vm.specification.version,sysinfo,,,"1.0",1407784581076
+java.vm.vendor,sysinfo,,,"Apple Inc.",1407784581076
+java.vm.version,sysinfo,,,"20.65-b04-462",1407784581076
+started,bundle,org.eclipse.emf.ecore.xmi,2.7.0.v20110520-1406,"org.eclipse.emf.ecore.xmi",1407784581304
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.200.v201103170302,"org.eclipse.jst.common.project.facet.core",1407784581480
+started,bundle,org.eclipse.jst.ws.jaxrs.core,1.0.301.v201108240656,"org.eclipse.jst.ws.jaxrs.core",1407784581490
+opened,view,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.views.ProblemView",1407784581592
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1407784581633
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1407784581760
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1407784581763
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1407784588029
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1407784604122
+closed,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1407784604617
+started,bundle,org.eclipse.compare,3.5.201.R37x_v20110817-0800,"org.eclipse.compare",1407784605317
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.700.v201104070312,"org.eclipse.jst.ws.axis.creation.ui",1407784605659
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.505.v201004211805,"org.eclipse.jst.ws.axis.consumption.ui",1407784605660
